@@ -50,7 +50,7 @@ body:
     id: evidence
     attributes:
       label: Evidence (links/screenshots/logs)
-      description: Prefer screenshots saved in the repo (ex: docs/images/...) plus links to related Issues/PRs.
+      description: Prefer screenshots saved in the repo (ex: docs/images/.) plus links to related Issues/PRs.
       placeholder: |
         - Screenshot path: docs/images/...
         - Log snippet:
