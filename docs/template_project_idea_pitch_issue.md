@@ -1,91 +1,221 @@
-# TEMPLATE — Project Idea Pitch (GitHub Issue)
+<!--
+TEMPLATE - Project Idea Pitch Issue
 
-> Use this to propose a new project idea.
->
-> **Goal:** Decide fast if the idea is **demoable, feasible, and scoped**.
->
-> Keep it simple. You can revise later.
+How to use this template:
 
----
+1. One team member creates this Issue.
+2. The team fills in all sections together.
+3. Keep answers short and clear.
+4. Link this Issue in your Sprint Packet if the idea changes later.
 
-## 1) Project title
-- **Working name:**
+Purpose:
+- Help the instructor review project ideas early
+- Make sure the project is demoable, feasible, and well scoped
+-->
 
-## 2) One-sentence pitch
-Fill this in:
-> **For** [target user], **who** [problem/need], **this is a** [type of product] that **does** [core benefit].
+# Project Idea Pitch
 
-## 3) Problem (what pain are we solving?)
-- What is the real problem? (1–3 bullets)
-- Why does it matter? (1–2 bullets)
+## Team
 
-## 4) Target users
-- Primary user:
-- Secondary user (optional):
+**Team Name**
 
-## 5) MVP (Minimum Viable Product)
-### MVP = the smallest version we can demo end-to-end.
-List **3–6 must-have features**.
--
--
--
+[Team name]
 
-### NOT in MVP (explicitly out of scope)
--
--
+**Members**
 
-## 6) Demo plan (required)
-### What will we demo by Week 4?
--
+- [Member 1]
+- [Member 2]
+- [Member 3]
+- [Member 4]
 
-### What will we demo by Midterm (Week 8)?
--
+**Repository (if created)**
 
-### What will we demo by Final (Week 16)?
--
+[GitHub repository link]
 
-## 7) Data + integrations (if any)
-- Data source(s):
-- External APIs:
-- Accounts/logins required? (yes/no)
-
-## 8) Tech plan (simple)
-- Frontend:
-- Backend:
-- Database/storage:
-- Deployment target:
-
-## 9) Risks (be honest)
-List the top 3 risks and how you will reduce them.
-- Risk 1:  
-  - Mitigation:
-- Risk 2:
-  - Mitigation:
-- Risk 3:
-  - Mitigation:
-
-## 10) Success criteria (how we know it worked)
-Define 3–5 clear “done” outcomes.
--
--
--
-
-## 11) Team fit
-- Who on the team wants to do what? (roles/strengths)
-- What skills do we need to learn?
-
-## 12) Evidence checklist (before approval)
-- [ ] MVP list is clear and small
-- [ ] Demo plan exists
-- [ ] Major risks identified
-- [ ] Deployment plan named
 
 ---
 
-## Instructor decision (leave blank)
-- Status: (Approved / Approved with cuts / Not approved yet)
-- Required scope cuts:
-  -
-- Notes:
-  -
+# 1. Project Title
 
+[Short project title]
+
+Example:
+
+Campus Study Room Finder
+
+
+---
+
+# 2. Problem
+
+Describe the **real problem** your project solves.
+
+Focus on a situation someone experiences.
+
+Example:
+
+> Students often struggle to find available study rooms on campus. Rooms may be empty but still marked as reserved.
+
+Your answer:
+
+[2-4 sentences]
+
+
+---
+
+# 3. Target Users
+
+Who will use this system?
+
+Examples:
+
+- students
+- teachers
+- small businesses
+- mobile users
+
+Your users:
+
+[Describe the main users]
+
+
+---
+
+# 4. What the System Will Do
+
+Explain **what the system will allow users to do**.
+
+Example:
+
+> Users can see available study rooms and reserve them for a time slot.
+
+Your description:
+
+[2-4 sentences]
+
+
+---
+
+# 5. Core Features (First Version)
+
+List **3-5 key features**.
+
+These should be realistic to build in one semester.
+
+Example:
+
+- View available rooms
+- Reserve a room
+- Cancel reservation
+- Show room schedule
+
+Your features:
+
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+- [Feature 4]
+- [Feature 5]
+
+---
+
+# 6. Demo Scenario
+
+Describe **exactly what will happen during your demo**.
+
+Example:
+
+Step 1  
+User opens the website.
+
+Step 2  
+User views available study rooms.
+
+Step 3  
+User reserves a room.
+
+Step 4  
+Reservation appears on the schedule.
+
+Your demo:
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+
+
+---
+
+# 7. Minimum Viable Product (MVP)
+
+Describe the **smallest version of your system that still works**.
+
+Your MVP should:
+
+- demonstrate the core idea
+- be easy to demo
+- be achievable early in the semester
+
+Your MVP:
+
+[Describe the smallest working version]
+
+
+---
+
+# 8. Technology Plan
+
+List the tools you expect to use.
+
+| Area | Tool |
+| --- | --- |
+| Frontend | |
+| Backend | |
+| Database | |
+| Hosting | |
+
+---
+
+# 9. Risks or Unknowns
+
+List anything that might make the project difficult.
+
+Examples:
+
+- new technology
+- unclear requirements
+- integration challenges
+
+Your risks:
+
+- [Risk 1]
+- [Risk 2]
+- [Risk 3]
+
+---
+
+# 10. Scope Check
+
+Confirm that your project is:
+
+- [ ] Demoable  
+- [ ] Feasible  
+- [ ] Well scoped  
+
+If any of these are uncertain, explain:
+
+[short explanation]
+
+
+---
+
+# Instructor Review (leave blank)
+
+Comments:
+
+[instructor feedback]
+
+Suggested changes:
+
+[instructor suggestions]

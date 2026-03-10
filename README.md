@@ -1,44 +1,286 @@
-<!--
-STUDENT NOTE (don’t delete): This README is your team’s home base.
-Keep it updated as your project changes (demo link, board link, roles).
--->
+# README — Capstone Design Studio Ops (Spring 2026)
 
-# Capstone Design — Team Repo
+## Purpose
+Run Capstone Design like an engineering studio: weekly sprints, visible evidence, reliable demos, and steady improvement toward a working MVP.
 
-## How to use this repo (read this first)
-- This repo is your **single source of truth** for the semester: planning, work, evidence, and weekly submission.
-- Every week you submit **ONE** Issue: the **Weekly Sprint Packet**.
-- Every student adds **ONE** comment on that Sprint Packet with **2–3 evidence links**.
+This class prioritizes **shipping small improvements every week** rather than planning large systems that never get built.
 
-**Evidence rule:** If it isn’t linked, it didn’t happen.
+---
 
-## Weekly workflow (non-negotiable)
-1) Create / update the **Weekly Sprint Packet** Issue (one per team per week)
-2) Do work as **Issues → branches → Pull Requests**
-3) Keep `main` always demoable
-4) Post a **demo link** every week (live or video)
-5) Each student comments with **Contribution Receipts** (2–3 links)
+## Non-Negotiables (the rules that make this work)
 
-## What to submit (every week)
-- **One Issue**: “Weekly Sprint Packet — Week X”
-- Demo link + 3-bullet demo script + backup plan
-- Board snapshot (To Do / Doing / Done) + owners + Definition of Done
-- Sprint notes (shipped, broke, next plan, risks)
-- Engineering practice spine + evidence link
-- **Each student comment**: 2–3 receipts (PRs, issues closed, review comments, CI runs, screenshots in repo)
+1. **GitHub is the source of truth**  
+   All work, documentation, and evidence must live in the team repository.
 
-## Repo docs (where to look)
-- `docs/PROJECT.md` — project overview + how to run/demo (update this every week)
-- `docs/POLICY - Evidence.md` — what counts as proof (follow it)
-- `docs/POLICY - Revisions.md` — revision rules (don’t assume you can “make up” late work)
+2. **Evidence policy**  
+   If it isn’t linked, it didn’t happen.
 
-## Quick links (add once you have them)
-- Project board: (add link)
-- Latest Sprint Packet: (add link)
-- Demo playlist / folder: (add link)
+3. **One weekly team submission**  
+   Each team submits exactly **one Sprint Packet Issue per week**.
 
-## Team info (keep current)
-- Team name:
-- Product name:
-- PM (this week):
-- Scribe (this week):
+4. **Individual receipts required**  
+   Each student must show proof of contribution.
+
+5. **Missed work = zero**  
+   Work must still be completed even if the grade is zero.
+
+6. **Revisions are improvement-only**  
+   Revisions happen only during scheduled **revision windows**.
+
+---
+
+## Weekly Rhythm (Wednesday → Wednesday → Friday)
+
+### Wednesday Class
+Teams meet, unblock issues, and move the project forward.
+
+Activities usually include:
+
+- Sprint planning
+- GitHub workflow practice
+- Mini engineering lesson
+- Instructor troubleshooting
+- Team production time
+
+New sprint expectations are clarified.
+
+### Next Wednesday Class
+Teams bring:
+
+- blockers
+- questions
+- partial work
+- demo progress
+
+Instructor checks:
+
+- project scope
+- GitHub workflow hygiene
+- evidence quality
+
+Adjustments are made before submission.
+
+### Friday Deadline
+**Sprint Packet for the previous week is due.**
+
+Submission includes:
+
+- Team Sprint Packet Issue
+- Demo link
+- Board snapshot
+- Sprint notes
+- Individual contribution receipts
+
+---
+
+## Week 1 Special Rule (Onboarding Week)
+
+Week 1 submissions are:
+
+**Required but NOT graded**
+
+These documents are considered **works in progress** and will evolve throughout the semester.
+
+Week 1 deliverables:
+
+- Team repository created
+- Team Agreement started
+- Project Idea Pitch issue opened
+- First Sprint Packet created
+
+The goal is simply to **get the system running**.
+
+---
+
+## Reset Week (Week 2)
+
+Because many students experienced setup issues, Week 2 focuses on:
+
+- organizing teams inside GitHub
+- learning the GitHub workflow
+- fixing repository setup
+- refining project scope
+
+Students should leave Week 2 with:
+
+- working repo
+- working issue templates
+- clear project idea
+- first functioning workflow
+
+---
+
+## Submission System (Sprint Packet)
+
+Every sprint has **one required team submission**.
+
+### Sprint Packet Issue
+Created using the template.
+
+It must contain:
+
+#### Demo
+- working link OR video
+- 3-bullet demo script
+- backup demo plan
+
+#### Board Snapshot
+- To Do
+- Doing
+- Done
+- owners
+- definition of done
+
+#### Sprint Notes
+- what shipped
+- what broke
+- next sprint plan
+- risks / blockers
+
+---
+
+## Individual Contribution Receipts
+
+Each student must comment on the Sprint Packet Issue.
+
+Minimum:
+
+**2–3 pieces of evidence**
+
+Examples:
+
+- pull requests
+- commits
+- issues closed
+- review comments
+- CI runs
+- screenshots
+- documentation updates
+
+---
+
+## Team Roles (Rotate Weekly)
+
+### PM
+- creates Sprint Packet Issue
+- runs team coordination
+- submits final packet
+
+### Scribe
+- records decisions
+- tracks blockers
+- posts notes
+
+### QA Lead
+- verifies testing
+- checks demo readiness
+
+### Demo Driver
+- prepares demo script
+- runs the live demo
+
+---
+
+## Grading Model (Grading for Growth)
+
+Grades come from **consistent progress over time**, not single assignments.
+
+### Specs Grading
+Deliverables are evaluated:
+
+- Satisfactory
+- Not Yet
+
+### Bundles Ladder
+Higher grades require maintaining standards across multiple sprints.
+
+### Revision Windows
+Students can improve work during specific revision periods.
+
+### Late Policy
+Missed deadline = **zero for that item**, even if completed later.
+
+---
+
+## Milestone Spine (High Level)
+
+### Sprint 0
+- repo setup
+- workflow setup
+- smallest working slice
+
+### Early Sprints
+- vertical slice
+- testing foundations
+- basic CI
+
+### Midterm
+- working system demo
+- scope reality check
+
+### Late Sprints
+- feature completion
+- quality improvements
+- documentation
+
+### Final
+- reliable demo
+- final documentation
+- professional project handoff
+
+---
+
+## What Lives in This ChatGPT Project Folder
+
+### Student-Facing Docs
+
+Short, publishable documents:
+
+- How This Class Works
+- Weekly Sprint Packet guide
+- Evidence & Receipts Policy
+- Bundles Ladder
+- Revision Windows Policy
+- Team / Conflict Policy
+- AI Use Policy
+
+### Cheat Sheets (Week 1)
+
+- GitHub Basics
+- Markdown Basics
+- GitHub Issues
+- GitHub Projects
+- Pull Requests
+
+### GitHub Template Assets
+
+- repo structure spec
+- issue templates
+- pull request template
+- labels
+- Projects v2 configuration
+
+### Instructor Ops
+
+- weekly class checklist
+- Friday grading checklist
+- intervention ladder
+- demo day script
+- revision window script
+
+---
+
+## Naming Conventions (Keep It Boring)
+
+### Docs
+```text
+POLICY - Evidence.md
+POLICY - Revisions.md
+CHEATSHEET - Markdown.md
+```
+
+### Templates
+```text
+TEMPLATE - Sprint Packet Issue.md
+TEMPLATE - PR.md
+```

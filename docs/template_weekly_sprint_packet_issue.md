@@ -1,118 +1,224 @@
-# TEMPLATE — Weekly Sprint Packet (GitHub Issue)
+<!--
+TEMPLATE - Weekly Sprint Packet Issue
 
-> **One submission per team, per week.** PM (or Scribe) submits.
->
-> **Due:** Thursday (the day after class) by **23:59**
->
-> **Evidence rule:** If it isn’t linked, it didn’t happen.
+How to use this template:
 
----
+1. The PM (or Scribe) creates this Issue.
+2. The team fills in all sections.
+3. Each student must add a comment with their receipts.
+4. Everything should link to GitHub evidence when possible.
 
-## 0) Team + Sprint
-- **Team:**
-- **Sprint / Week #:**
-- **Sprint dates:** (Wed → Thu)
-- **PM:**
-- **Scribe:**
-- **QA Lead:**
-- **Demo Driver:**
+Reminder:
 
----
+If it isn't linked, it didn't happen.
+-->
 
-## 1) Demo (required)
-- **Demo link (live or video):**
-- **3-bullet demo script (what you will say):**
-  1.
-  2.
-  3.
-- **Backup plan (if the demo fails):**
-  -
+# Weekly Sprint Packet
 
-**Definition of “demoable”:** You can show the feature working end-to-end, or a stable vertical slice, without improvising or explaining missing pieces.
+## Team
 
----
+**Team Name**
 
-## 2) What we shipped (receipts)
-List the 3–8 most important shipped items. Every item must have a link.
+[Team name]
 
-- ✅ Shipped item + link (PR/Issue):
-- ✅
-- ✅
+**Sprint Number**
+
+[example: Sprint 2]
+
+**Repository**
+
+[repo link]
+
+**PM for this Sprint**
+
+[name]
+
 
 ---
 
-## 3) Board snapshot (To Do / Doing / Done)
-Paste a screenshot **or** list the top cards with owners.
+# Demo
 
-### Done (this sprint)
--
+Provide a **working demo link or short video**.
 
-### Doing (right now)
--
+[link]
 
-### To Do (next)
--
 
-**Rules**
-- Every card has **one owner**
-- Every card has a **Definition of Done**
-- If blocked, label it **blocker** and write what you need
+## Demo Script
 
----
+What will you show during the demo?
 
-## 4) Engineering practice spine (pick ONE for this sprint)
-Choose one focus area and show evidence.
+Keep it short.
 
-- [ ] Testing basics (added/updated tests)
-- [ ] CI checks (PR checks passing)
-- [ ] Deployment reliability (stable deploy + rollback/backup)
-- [ ] Logging/observability (meaningful logs + error capture)
-- [ ] Security basics (secrets, auth, input validation)
-- [ ] Accessibility basics (keyboard nav, labels, contrast)
-- [ ] Performance basics (one measurable improvement)
+Step 1:
+Step 2:
+Step 3:
+Step 4:
 
-**What we did (link evidence):**
--
 
 ---
 
-## 5) What broke / Bugs
-- 🐛 Bug + link to Issue:
-- 🐛
+## Backup Plan
+
+If the live demo fails, what will you show instead?
+
+Example:
+
+- recorded demo
+- screenshots
+- fallback branch
 
 ---
 
-## 6) Risks / Blockers
-- 🚧 Blocker + what we need + owner + link:
-- ⚠️ Risk + mitigation + owner:
+# Project Board Snapshot
+
+Link to your **GitHub Project board**.
+
+[board link]
+
+
+## Sprint Goal
+
+What was the goal for this sprint?
 
 ---
 
-## 7) Plan for next sprint (next week)
-- **Top 3 goals (must be demoable):**
-  1.
-  2.
-  3.
+## Current Board State
 
-- **Scope cut list (if time runs out, we cut these first):**
-  -
+List the important issues in each column.
 
----
+### To Do
 
-## 8) Individual Contribution Receipts (EACH STUDENT COMMENT)
-**Each student must add a comment below with 2–3 links minimum.**
+- Issue link
+- Issue link
 
-Copy/paste this in your comment:
+### Doing
 
-**Name:**
-- Receipt 1 (PR/Issue/Review/CI):
-- Receipt 2 (PR/Issue/Review/CI):
-- Receipt 3 (optional):
+- Issue link
+- Issue link
 
-**1-sentence contribution summary:**
+### Done
+
+- Issue link
+- Issue link
 
 ---
 
-## 9) Instructor notes (leave blank)
--
+# Sprint Notes
 
+## What Shipped
+
+What actually worked by the end of the sprint?
+
+- [Shipped item 1]
+- [Shipped item 2]
+- [Shipped item 3]
+
+---
+
+## What Broke
+
+Problems encountered this week.
+
+- [Problem 1]
+- [Problem 2]
+- [Problem 3]
+
+---
+
+## Next Sprint Plan
+
+What will the team work on next week?
+
+- [Plan item 1]
+- [Plan item 2]
+- [Plan item 3]
+
+---
+
+## Risks or Blockers
+
+Anything that might slow down the project.
+
+- [Risk 1]
+- [Risk 2]
+- [Risk 3]
+
+---
+
+# Engineering Practice (if required this week)
+
+Describe the engineering practice used this week.
+
+Examples:
+
+- testing
+- CI checks
+- deployment
+- logging
+- performance
+- accessibility
+
+Evidence:
+
+[link]
+
+
+---
+
+# Individual Contribution Receipts
+
+Each team member must **add a comment on this Issue** with their receipts.
+
+Minimum:
+
+2-3 links
+
+
+Examples of receipts:
+
+- Pull Request
+- Issue completed
+- commit
+- code review comment
+- documentation change
+- CI run
+- screenshot of working feature
+
+---
+
+## Example Receipt Comment
+
+Each student should post a comment like this:
+
+```text
+Contribution Receipts
+
+PR:
+https://github.com/org/repo/pull/12
+
+Issue completed:
+https://github.com/org/repo/issues/9
+
+Review comment:
+https://github.com/org/repo/pull/10#discussion
+```
+
+---
+
+# Definition of Done (Quick Check)
+
+Confirm that:
+
+- [ ] Demo works or has backup
+- [ ] Project board is updated
+- [ ] Sprint notes are written
+- [ ] Each member posted receipts
+- [ ] Links are working
+
+---
+
+# Instructor Notes (leave blank)
+
+Comments:
+
+Suggestions:
