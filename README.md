@@ -1,5 +1,7 @@
 # README — Capstone Design Studio Ops (Spring 2026)
 
+### **IMPORTANT NOTE** - copy the ".github" folder into your project repo. It will set up some important thins for you. If and when I update it, I will let you know.
+
 ## Purpose
 Run Capstone Design like an engineering studio: weekly sprints, visible evidence, reliable demos, and steady improvement toward a working MVP.
 
