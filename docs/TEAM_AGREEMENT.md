@@ -1,12 +1,10 @@
 # TEAM AGREEMENT - Capstone Design
 
-This document is your **team constitution**.
+This document is our team constitution.
 
-It defines how your team will work together, make decisions, resolve conflicts, and ensure everyone contributes.
+It explains how our team will work together, communicate, and complete the project during the semester. We agree to follow these rules so that everyone contributes and the project runs smoothly.
 
-Teams that write clear agreements usually avoid most problems later in the semester.
-
-This agreement can be **updated during the semester** if the team agrees and records the change.
+If needed, we can update this agreement later with the agreement of all team members.
 
 ---
 
@@ -14,7 +12,7 @@ This agreement can be **updated during the semester** if the team agrees and rec
 
 **Team Name**
 
-[Team name here]
+[FreeSewa Team]
 
 **Repository**
 
@@ -24,10 +22,11 @@ This agreement can be **updated during the semester** if the team agrees and rec
 
 | Name | Role Rotation (first week) |
 | --- | --- |
-| | |
-| | |
-| | |
-| | |
+|Tamang Sujan |Scribe |
+|Pathak Ram |Project Manger (PM) |
+|Shrestha Sujan |QA Lead |
+|Karki Jung Swarnim |Demo Driver |
+|Khadka Mohan |Technical Lead |
 
 ---
 
@@ -83,15 +82,8 @@ Our primary communication channels are:
 
 | Tool | Purpose |
 | --- | --- |
-| | |
-| | |
-
-Examples:
-
-- KakaoTalk
-- Discord
-- Slack
-- Email
+|KakaoTalk |Team communication and quick discussion |
+|Whatsapp |Online meetings and collaboration |
 
 ---
 
@@ -99,8 +91,10 @@ Examples:
 
 Our team agrees to:
 
-- respond to messages within **24 hours**
-- notify the team if we cannot attend a meeting
+- respond to team messages within 24 hours
+
+- notify the team if someone cannot attend a meeting
+
 - ask for help early instead of disappearing
 
 ---
@@ -257,11 +251,11 @@ By signing, we agree to follow the expectations in this document.
 
 | Name | Signature | Date |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
-| | | |
-
+|Tamang Sujan | | |
+|Pathak Ram | | |
+|Shrestha Sujan | | |
+|Karki Swarnim Jung | | |
+|Khadka Mohan | |
 ---
 
 # Quick Reminder
